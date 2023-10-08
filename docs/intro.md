@@ -1,47 +1,39 @@
 ---
+slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 리눅스 스터디
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## 스터디 목적
+- 리눅스마스터 1급 자격증 취득
+- 실무에 도움이 되는 리눅스 공부
 
-## Getting Started
+<br/>
 
-Get started by **creating a new site**.
+## 스터디 교재
+- CentOS 7으로 리눅스마스터 1급 정복하기
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+<br/>
 
-### What you'll need
+## 스터디 진행 방식
+- 매주 한 소챕터씩 진행
+- 발표자는 책을 읽고 전체 내용을 키워드 위주로 정리
+- 참여자는 책을 읽고 본인이 중요하다고 생각한 부분을 간단히 정리
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+<br/>
 
-## Generate a new site
+## 스터디 일정
+- 매주 월요일 22시 ~ 24시
 
-Generate a new Docusaurus site using the **classic template**.
+| Week | Date | Subject |
+| --- | --- | --- |
+| Week 0 (Kick-off) | 9/25 | 1.1 운영체제의 개요 <br/> 1.2 리눅스 기초 |
+| Week 1 | 10/9 | 2.1 리눅스와 하드웨어 |
+| Week 2 | 10/16 | 2.2 리눅스 구조 |
+| Week 3 | 10/23 | 2.3 X 윈도 |
+| Week 4 | 10/30 | 2.4 Shell |
+| Week 5 | 11/6 | 2.5 프로세스 |
+| Week 6 | 11/13 | 3.1 네트워크 기초 |
+| Week 7 | 11/20 | 3.2 네트워크 환경 |
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
