@@ -56,8 +56,6 @@ const config = {
           hideable: true,
         },
       },
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '리눅스 스터디',
         logo: {

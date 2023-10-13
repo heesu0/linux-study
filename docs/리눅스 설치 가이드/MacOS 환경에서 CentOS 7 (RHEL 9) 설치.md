@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+id: MacOS 환경에서 CentOS 7 설치
 ---
 
 # MacOS 환경에서 CentOS 7 (RHEL 9) 설치

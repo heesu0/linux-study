@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+id: Windows 환경에서 CentOS 7 설치
 ---
 
 # Windows 환경에서 CentOS 7 (Rocky Linux) 설치
