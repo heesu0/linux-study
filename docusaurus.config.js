@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '리눅스 스터디',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icons8-linux-96.ico',
 
   // Set the production url of your site here
   url: 'https://heesu0.github.io',
@@ -60,7 +60,7 @@ const config = {
         title: '리눅스 스터디',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icons8-linux-100.png',
         },
         items: [
           {
