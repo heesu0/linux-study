@@ -64,6 +64,12 @@ const config = {
         },
         items: [
           {
+            type: 'docSidebar',
+            sidebarId: 'guideSidebar',
+            position: 'right',
+            label: '스터디 문서 작성 가이드',
+          },
+          {
             href: 'https://github.com/heesu0/linux-study',
             label: 'GitHub',
             position: 'right',
